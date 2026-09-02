@@ -6,6 +6,11 @@
 
 Microsoft Build is anchored in technical depth, developer credibility, and interactive creation. Engage with session-specific content in your environment with interactive repos to further your learning for your own purposes. Click on a topic to see the repos for each session.
 
+> [!IMPORTANT]
+> *We’ve archived the Build 2026 session repositories. For the latest news, announcements, and developer resources from Microsoft, please visit [Microsoft Learn](https://aka.ms/build26/learn).*
+>
+> *Thanks for joining us, and see you at future Microsoft events!*
+
 👉 **[Browse the full site](https://microsoft.github.io/build26-next-steps/)** for the best experience with navigation across all topics.
 
 ## Session Topics
